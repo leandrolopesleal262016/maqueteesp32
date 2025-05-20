@@ -19,6 +19,16 @@ Este projeto implementa um sistema de controle para portões e mecanismos motori
 - 4 botões com resistores pull-up
 - Fonte de alimentação adequada
 
+## Diagrama e Componentes
+
+### Diagrama Elétrico
+![Diagrama Elétrico do Sistema](images/diagrama_eletrico.jpg)
+*Diagrama de conexões elétricas do sistema de controle de portões*
+
+### Componentes Utilizados
+![Componentes do Sistema](images/componentes.jpg)
+*Placas e componentes utilizados na montagem do sistema*
+
 ## Pinagem
 
 ### Motores de Passo
